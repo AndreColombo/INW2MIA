@@ -154,8 +154,6 @@ do {
 } while (op != "4");
 console.log("Fim de programa... até breve!");
 
-
-
 /*
 let op = ""
 let valor = 0

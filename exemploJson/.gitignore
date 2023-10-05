@@ -1,0 +1,2 @@
+# Arquivos ignorados durante o git push
+node_modules
